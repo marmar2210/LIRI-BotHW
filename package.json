@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-BotHW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marmar2210/LIRI-BotHW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marmar2210/LIRI-BotHW/issues"
+  },
+  "homepage": "https://github.com/marmar2210/LIRI-BotHW#readme"
+}
